@@ -1,38 +1,17 @@
 <div align="center">
 
-# 🎮 FREE IMRAN KHAN 2D - FINAL VERSION 🔥
-### "2D Complete. Now Moving to 3D."
-
-### 🔥 Break Adiala Jail · Qaidi No 804 Escape 🔥
-
-<a href="https://github.com/rehan-profile/Free-Imran-Khan-2D/">
-  <img src="og-thumb.jpg" alt="Free Imran Khan 2D Game - Break Adiala Jail" width="100%">
+<a href="https://rehan-profile.github.io/Free-Imran-Khan-2D/">
+<img src="https://github.com/ReHan-Profile/Free-Imran-Khan-2D/raw/main/banner.jpg" alt="Free Imran Khan 2D Game - Break Adiala Jail" width="100%">
 </a>
 
 <br>
 
-## ▶️ [PLAY NOW - Click Here to Play](https://[https://github.com/ReHan-Profile/Free-Imran-Khan-2D/])
-
-
+## ▶️ [PLAY NOW - Click Here to Play](https://rehan-profile.github.io/Free-Imran-Khan-2D/)
 
 ![Platform](https://img.shields.io/badge/Platform-Mobile%20%7C%20PC-brightgreen?style=for-the-badge)
-
-
-
-
 ![Type](https://img.shields.io/badge/Type-2D%20Endless%20Runner-orange?style=for-the-badge)
-
-
-
-
 ![Language](https://img.shields.io/badge/Made%20with-HTML5-red?style=for-the-badge)
-
-
-
-
 ![Price](https://img.shields.io/badge/Price-FREE-blue?style=for-the-badge)
-
-
 
 </div>
 
@@ -57,6 +36,7 @@ Break Adiala Jail and race through the bazaar! Run, jump and slide through the s
 - 🌙 Night Mode - NEW
 - 🌧️ Rain Season - NEW
 - ⚡ Unlock Power Mode
+- 🔑 Grab a golden key while jumping (every 1500 distance) for +1 life, up to 5
 - 📱 Works on mobile and PC, right in the browser
 - 🆓 100% free, no download or install needed
 
@@ -64,19 +44,22 @@ Break Adiala Jail and race through the bazaar! Run, jump and slide through the s
 
 ## 🕹️ Controls
 
-| Action | Mobile | PC |
-|--------|--------|----|
-| ⬆️ Jump | Tap **JUMP** button | Space / Up Arrow |
-| ⬇️ Slide | Tap **SLIDE** button | Down Arrow |
-| ⬅️ Left | Tap **LEFT** button | Left Arrow |
-| ➡️ Right | Tap **RIGHT** button | Right Arrow |
+| Action | Touch / Mouse | Keyboard |
+|--------|--------------|----------|
+| ⬆️ Jump | Swipe up, or tap the upper middle | Space / W / Up Arrow |
+| ⬇️ Slide | Swipe down, or tap the lower middle | S / Down Arrow |
+| ⬅️ Left | Swipe left, or tap the left side | A / Left Arrow |
+| ➡️ Right | Swipe right, or tap the right side | D / Right Arrow |
+| ⏸ Pause | Pause button | P / Esc |
+| 🔊 Sound | Speaker button | M |
+| ▶️ Start / Play Again / skip intro | Tap the button (tap the screen to skip the intro) | Enter / Space |
 
 ---
 
 ## 📲 How to Play
 
-1. Open the link: **https://github.com/ReHan-Profile/Free-Imran-Khan-2D/**
-2. Tap or click **Play**
+1. Open the link: **https://rehan-profile.github.io/Free-Imran-Khan-2D/**
+2. Tap or click **Start Game**
 3. Jump over Rickshaws, Police Dala, Bike, Sabzi Wala, Cycle Wala & Baloon Wala
 4. Slide under Trucks, Buses, Army Truck, W-11, Old Bedford and collect coins
 5. Reach Power Mode and beat your high score!
@@ -87,7 +70,7 @@ Break Adiala Jail and race through the bazaar! Run, jump and slide through the s
 
 Share this link with your friends and family:
 
-**https://github.com/ReHan-Profile/Free-Imran-Khan-2D/share.html**
+**https://rehan-profile.github.io/Free-Imran-Khan-2D/share.html**
 
 ---
 
@@ -96,7 +79,7 @@ Share this link with your friends and family:
 **ReHan GaMer**
 Google Ads | Content Creator | AI Expert | Amazon PPC | 2D & 3D Game Developer
 
-🌐 GitHub: [Rehan786Gamer](https://github.com/ReHan-Profile)
+🌐 GitHub: [ReHan-Profile](https://github.com/ReHan-Profile)
 
 ---
 
