@@ -5,7 +5,7 @@
 
 ### 🔥 Break Adiala Jail · Qaidi No 804 Escape 🔥
 
-<a href="https://rehan786gamer.github.io/Free-Imran-Khan-2D/">
+<a href="https://github.com/rehan-profile/Free-Imran-Khan-2D/">
   <img src="og-thumb.jpg" alt="Free Imran Khan 2D Game - Break Adiala Jail" width="100%">
 </a>
 
@@ -75,7 +75,7 @@ Break Adiala Jail and race through the bazaar! Run, jump and slide through the s
 
 ## 📲 How to Play
 
-1. Open the link: **https://rehan786gamer.github.io/Free-Imran-Khan-2D/**
+1. Open the link: **https://github.com/ReHan-Profile/Free-Imran-Khan-2D/**
 2. Tap or click **Play**
 3. Jump over Rickshaws, Police Dala, Bike, Sabzi Wala, Cycle Wala & Baloon Wala
 4. Slide under Trucks, Buses, Army Truck, W-11, Old Bedford and collect coins
@@ -96,7 +96,7 @@ Share this link with your friends and family:
 **ReHan GaMer**
 Google Ads | Content Creator | AI Expert | Amazon PPC | 2D & 3D Game Developer
 
-🌐 GitHub: [Rehan786Gamer](https://github.com/Rehan786Gamer)
+🌐 GitHub: [Rehan786Gamer](https://github.com/ReHan-Profile)
 
 ---
 
