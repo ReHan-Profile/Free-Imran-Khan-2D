@@ -11,7 +11,7 @@
 
 <br>
 
-## ▶️ [PLAY NOW - Click Here to Play](https://rehan786gamer.github.io/Free-Imran-Khan-2D/)
+## ▶️ [PLAY NOW - Click Here to Play](https://[https://github.com/ReHan-Profile/Free-Imran-Khan-2D/])
 
 
 
@@ -87,7 +87,7 @@ Break Adiala Jail and race through the bazaar! Run, jump and slide through the s
 
 Share this link with your friends and family:
 
-**https://rehan786gamer.github.io/Free-Imran-Khan-2D/share.html**
+**https://github.com/ReHan-Profile/Free-Imran-Khan-2D/share.html**
 
 ---
 
