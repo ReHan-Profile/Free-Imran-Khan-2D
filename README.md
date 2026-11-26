@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://rehan-profile.github.io/Free-Imran-Khan-2D/">
-<img src="https://github.com/ReHan-Profile/Free-Imran-Khan-2D/main/og-thumb.jpg)
+<img src="https://raw.githubusercontent.com/ReHan-Profile/Free-Imran-Khan-2D/main/og-thumb.jpg" alt="Free Imran Khan 2D Game - Break Adiala Jail" width="100%">
 </a>
 
 <br>
